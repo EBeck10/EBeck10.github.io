@@ -8,6 +8,10 @@ p {
 	font-size: 18;
 }
 
+.baseball {
+	align-self: center;
+}
+
 
 body { 
   background: url("http://eskipaper.com/images/sports-wallpaper-12.jpg") no-repeat center center fixed; 
